@@ -76,7 +76,7 @@ endmodule
 
 ![ex4 table1](https://github.com/user-attachments/assets/447437f7-9b9f-44e5-8038-a1cfd2d12276)
 
-![ex 4 table2](https://github.com/user-attachments/assets/6c58286f-0824-4e8c-8b7c-61a8578dc18e)
+![ex4 table2](https://github.com/user-attachments/assets/d78f59a1-d6d2-4ad4-828a-709443f91390)
 
 
 **RTL Schematic**
